@@ -12,6 +12,6 @@ chmod +x main.sh
 
 для автоматизации запуска добавте в .zsh(bash)rc:
 
-```zshrc
+```zsh
 alias obsiTime="~/.config/obsidianTime/main"
 ```
