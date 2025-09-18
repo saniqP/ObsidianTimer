@@ -2,7 +2,7 @@
 
 Это счётчик времени в ваших задачах. В программе используется технология TUI(terminal user interface).
 
-##Инструкция по установке
+## Инструкция по установке
 ```zsh
 git clone https://github.com/saniqP/ObsidianTimer.git
 cd ObsidianTimer
